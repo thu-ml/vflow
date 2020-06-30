@@ -8,7 +8,7 @@ This repository contains Tensorflow implementation of experiments from the paper
 * Tensorflow v1.14.0
 * [horovod v0.18.2](https://github.com/uber/horovod)
 
-[Horovod GPU setup instructions](https://github.com/uber/horovod/blob/master/docs/gpus.md)
+[Horovod GPU setup instructions](https://github.com/uber/horovod/blob/master/docs/gpus.rst)
 
 # Usage Instructions on One Machine
 
