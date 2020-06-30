@@ -84,10 +84,11 @@ Please open an issue.
 Please cite our paper if you use this code in your own work:
 
 ```
-@article{chen2020vflow,
+@inproceedings{chen2020vflow,
   title={VFlow: More Expressive Generative Flows with Variational Data Augmentation},
   author={Chen, Jianfei and Lu, Cheng and Chenli, Biqi and Zhu, Jun and Tian, Tian},
-  journal={arXiv preprint arXiv:2002.09741},
+  booktitle={International Conference on Machine Learning},
+  pages={},
   year={2020}
 }
 ```
