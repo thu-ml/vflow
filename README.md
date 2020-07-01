@@ -88,7 +88,6 @@ Please cite our paper if you use this code in your own work:
   title={VFlow: More Expressive Generative Flows with Variational Data Augmentation},
   author={Chen, Jianfei and Lu, Cheng and Chenli, Biqi and Zhu, Jun and Tian, Tian},
   booktitle={International Conference on Machine Learning},
-  pages={},
   year={2020}
 }
 ```
