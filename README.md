@@ -2,6 +2,9 @@
 
 This repository contains Tensorflow implementation of experiments from the paper [VFlow: More Expressive Generative Flows with Variational Data Augmentation](https://arxiv.org/abs/2002.09741). The implementation is based on [Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design](https://github.com/aravindsrinivas/flowpp).
 
+# News
+
+- We've released the checkpoint file for CIFAR-10. See [This link](https://drive.google.com/file/d/1OkgFzOMjpaItZfw0LERwOKTRJS3MYOo4/view?usp=sharing).
 # Main Dependencies
 
 * Python >= 3.6 
